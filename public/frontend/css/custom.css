@@ -1,0 +1,9 @@
+/* error page */
+
+.error-page {
+	min-height: 100vh;
+}
+
+.error-page .container .title {
+	font-size: 11em;
+}
