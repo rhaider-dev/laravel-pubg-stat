@@ -1,5 +1,10 @@
 <h1>Introduction</h1>
 <p>PUBGFinder- a website to search for pubg stats. It is built with <a href="https://laravel.com/">Laravel </a>and&nbsp;<a href="https://voyager.devdojo.com/">Voyager</a>. Easily make a Video Game website and show some reviews and news to the world.&nbsp;</p>
+
+<h1>Demo</h1>
+<p>http://mysterious-fortress-55847.herokuapp.com</p>
+<p>Please note: in the demo images will not work. But, it will work on local or other servers.</p>
+
 <h1>Requirements</h1>
 <p>It uses Laravel version 7.0. So, the serevr requirements are&nbsp;</p>
 <ul>
